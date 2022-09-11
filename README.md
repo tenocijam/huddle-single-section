@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-yJVKolSUHY)
 - Live Site URL: [Netlify](https://huddle-single-section-sidharthh.netlify.app/)
 
 ## My process
